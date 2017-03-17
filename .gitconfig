@@ -37,3 +37,6 @@
 	default = simple
 [rerere]
 	enabled = true
+[user]
+	name = 708i
+	email = q111003n@mail.kyutech.jp
